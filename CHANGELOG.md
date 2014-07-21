@@ -1,2 +1,2 @@
-﻿# My application changelog
+﻿# Erik Lieben Data Toolkit Entity Framework
 

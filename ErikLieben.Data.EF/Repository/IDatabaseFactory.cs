@@ -1,4 +1,4 @@
-﻿namespace ErikLieben.Data
+﻿namespace ErikLieben.Data.Repository
 {
     using System.Data.Entity;
 
